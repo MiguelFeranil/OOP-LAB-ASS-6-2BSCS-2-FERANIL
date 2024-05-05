@@ -1,4 +1,4 @@
-# OOP-LAB-ASS-6-2BSCS-2-FERANIL
+# OOP-LAB-ASS-7-2BSCS-2-FERANIL
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
 Currently, the Student object has methods like borrowBook(), borrowJournal() with a parameter of title, which directly depend on specific resource types.
